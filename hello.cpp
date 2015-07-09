@@ -1,9 +1,14 @@
 #include <cstdio>
 using namespace std;
 
+// Function 0
+void func0(void){
+	printf("This is func 0\n");
+}
+
 // Main
 int main(void)
 {
-	printf("Hello, world 2\n");
+	func0();
 	return 0;
 }
