@@ -3,7 +3,7 @@ using namespace std;
 
 // Function 0
 void func0(void){
-	printf("This is func 0000\n");
+	printf("This is func 0\n");
 }
 
 // Main
