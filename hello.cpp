@@ -8,7 +8,7 @@ void func0(void){
 
 // Function 1
 void func1(void){
-	printf("This is func 1\n");
+	printf("This is func 1-1\n");
 }
 
 // Main
